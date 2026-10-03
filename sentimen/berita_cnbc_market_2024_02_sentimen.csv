@@ -1,0 +1,46 @@
+﻿Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,4,2,1,0,positif,"Kondisi Ekonomi Masih Menantang, BNI Buka Strategi 2024 Market 2 tahun yang lalu BBNI.JK ||| Ini Alasan BNI Incar Buka Cabang di AS dan Australia Market 2 tahun yang lalu BBNI.JK ||| Mobile Banking BNI Catat Transaksi Rp 1.216 T Sepanjang 2023 Market 2 tahun yang lalu BBNI.JK ||| BNI Kantongi DPK Rp 810,73 T per Desember 2023, Dana Murah Mendominasi Market 2 tahun yang lalu BBNI.JK ||| Kredit BNI hingga Akhir 2023 Rp695 T, Ini Sektor Unggulannya Market 2 tahun yang lalu BBNI.JK ||| BNI Bidik ROE 20% pada 2028 Market 2 tahun yang lalu BBNI.JK ||| Deretan Bank Asing yang Kompak Tinggalkan Indonesia Market 2 tahun yang lalu"
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,1,1,1,0,positif,"Kiamat Kantor Cabang Mengintai, BRI Justru Mau Tambah Layanan Fisik Market 2 tahun yang lalu BBRI.JK ||| Deretan Bank Asing yang Kompak Tinggalkan Indonesia Market 2 tahun yang lalu ||| MARKET COMMENTARY IHSG Rebound! BBRI & BMRI Jadi Penggerak Utama Market 2 tahun yang lalu"
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,BTN Proyeksi Pertumbuhan Penjualan Rumah Tumbuh 12% Tahun Ini Market 2 tahun yang lalu BBTN.JK
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,5,1,0,0,positif,"Bank Mandiri Ungkap Peran Digitalisasi dalam Tangkap Peluang Bisnis Market 2 tahun yang lalu ||| MARKET COMMENTARY IHSG Rebound! BBRI & BMRI Jadi Penggerak Utama Market 2 tahun yang lalu ||| Jelang Pengumuman Laba 2023, Cek Tren Kinerja Bank Mandiri Market 2 tahun yang lalu BMRI.JK ||| Bank Mandiri Targetkan Penyaluran Kredit 2024 Sekitar 10%-15% Market 2 tahun yang lalu BMRI.JK ||| Pengguna Livin Mandiri Naik 44%, Nilai Transaksi Capai Rp 3.271 T Market 2 tahun yang lalu BMRI.JK ||| Bank Mandiri Sebut Ini Soal Pengganti Siddik Badrudin Market 2 tahun yang lalu"
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,1,1,1,0,positif,"Dorong Anak Muda Punya Rumah, BSI Tawarkan KPR Tenor Hingga 30 Tahun Market 2 tahun yang lalu BRIS.JK ||| Deretan Bank Asing yang Kompak Tinggalkan Indonesia Market 2 tahun yang lalu ||| BSI Cetak Laba Rp 5,7 T, Melesat 33,82% Market 2 tahun yang lalu BRIS.JK"
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BUKA,PT Bukalapak.com Tbk,Technology,Internet Retail,1,6,3,1,netral,"Kondisi Ekonomi Masih Menantang, BNI Buka Strategi 2024 Market 2 tahun yang lalu BBNI.JK ||| Ini Alasan BNI Incar Buka Cabang di AS dan Australia Market 2 tahun yang lalu BBNI.JK ||| Musim Rilis Laporan Keuangan, Wall Street Dibuka Sumringah Market 2 tahun yang lalu ||| Emiten Prajogo Pangestu TPIA Ditendang dari LQ45, Bursa Buka Suara Market 2 tahun yang lalu ||| Live Now: Bos BRI Buka-Bukaan Soal Investasi Cuan di Tahun Naga Kayu Market 2 tahun yang lalu ||| BEI Buka Peluang Kocok Ulang Indeks LQ45 3 Bulan Sekali Market 2 tahun yang lalu ||| Investor Kecewa! Ada Fokus Baru, Wall Street Dibuka Anjlok Market 2 tahun yang lalu ||| Kabar The Fed Bikin Dag Dig Dug, Wall Street Kompak Dibuka Anjlok Market 2 tahun yang lalu ||| Debt Collector Ternyata Boleh Tagih di Luar Jam Kerja, OJK Buka Suara Market 2 tahun yang lalu ||| Jokowi Bukan Presiden RI Termiskin, Siapa yang Terkaya? Market 2 tahun yang lalu"
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EMTK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT ESSA Industries Indonesia Tbk,Basic Materials,Agricultural Inputs,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,2,0,0,0,positif,"GOTO Siap Buyback Saham! Market 2 tahun yang lalu GOTO.JK ||| GOTO Pede Mau Buyback Saham, Ternyata Ini Alasannya! Market 2 tahun yang lalu"
+HRUM,PT Harum Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPI,PT Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MBMA,PT Merdeka Battery Materials Tbk,Basic Materials,Other Industrial Metals & Mining,0,1,0,1,netral,Merdeka Battery (MBMA) Beri Pinjaman ke Anak Usaha US$ 100 Juta Market 2 tahun yang lalu MBMA.JK
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTMP,PT Mitra Pack Tbk,Industrials,Packaging & Containers,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SRTG,PT Saratoga Investama Sedaya Tbk,Financial Services,Asset Management,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,1,2,negatif,"Krisis Properti China, Country Garden Jual Aset Rp 8 T, Utang Rp239 T Market 2 tahun yang lalu"
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini

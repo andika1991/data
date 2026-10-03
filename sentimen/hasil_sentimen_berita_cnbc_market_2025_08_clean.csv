@@ -1,0 +1,45 @@
+Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Aspirasi Hidup Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADMR,PT Adaro Minerals Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMMN,PT Amman Mineral Internasional Tbk,Basic Materials,Other Precious Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,1,0,1,netral,Permintaan Melonjak Bikin Produksi Emas Antam (ANTM) Naik 84% Market 11 bulan yang lalu
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,"Masih 'Cari Aman' di Kredit, Laba BCA (BBCA) Rp29 T di Semester I-2025 Market 11 bulan yang lalu"
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,3,0,0,0,positif,"Bos BRI (BBRI) Buka-Bukaan Jika Dividen Tahun Ini Bakal Tinggi Market 11 bulan yang lalu ||| Bos BRI (BBRI) Ungkap Upaya Perbaikan Proses Bisnis Market 11 bulan yang lalu ||| IHSG Happy Weekend Naik 0,71% Digendong Saham TLKM-BBRI Market 11 bulan yang lalu"
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,0,1,0,1,netral,Aturan Terbaru Saldo Minimum Bank Mandiri-BNI-BRI Juli 2025 Market 11 bulan yang lalu
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BUKA,PT Bukalapak.com Tbk,Technology,Internet Content & Information,1,4,0,1,netral,"Saham CDIA 'Gendong' IHSG Seminggu Lebih, BEI Buka Suara Market 11 bulan yang lalu ||| Jakarta Buka Kasino Pertama Langsung Untung Gede, Ini Lokasinya Market 11 bulan yang lalu ||| Indomaret Tak Buka Toko di Padang, Alasannya Terungkap Market 11 bulan yang lalu ||| Bos BRI (BBRI) Buka-Bukaan Jika Dividen Tahun Ini Bakal Tinggi Market 11 bulan yang lalu ||| BEI Bakal Buka Kode Domisili Investor Mulai September 2025 Market 11 bulan yang lalu"
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT ESSA Industries Indonesia Tbk,Basic Materials,Specialty Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Smart Telecom Sejahtera Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,1,2,0,1,netral,"Profil Fauzambi Syahrul Multhazar, Purnawirawan TNI Komut Vale (INCO) Market 11 bulan yang lalu ||| Ditunjuk Jadi Presdir Vale (INCO), Ini Profil Bernardus Irmanto Market 11 bulan yang lalu ||| Laba Emiten Nikel Vale (INCO) Rp 414,56 Miliar di Semester I-2025 Market 11 bulan yang lalu"
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ISAT,PT Indosat Ooredoo Hutchison Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+JSMR,PT Jasa Marga (Persero) Tbk,Industrials,Infrastructure Operations,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPI,PT Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MBMA,PT Merdeka Battery Materials Tbk,Basic Materials,Other Precious Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMRA,PT Summarecon Agung Tbk,Real Estate,Real Estate Development,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,PT Telkom Indonesia (Persero) Tbk,Communication Services,Telecom Services,1,0,0,0,positif,"IHSG Happy Weekend Naik 0,71% Digendong Saham TLKM-BBRI Market 11 bulan yang lalu"
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini

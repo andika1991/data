@@ -1,0 +1,46 @@
+﻿Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,1,0,1,netral,Adu Kaya Hartono & Prajogo Pangestu: Berebut Tahta Orang Terkaya RI Market 2 tahun yang lalu
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,KB Bank & APP Indonesia Tandatangani Kerja Sama Pembiayaan Vendor Market 2 tahun yang lalu
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,KB Bank & APP Indonesia Tandatangani Kerja Sama Pembiayaan Vendor Market 2 tahun yang lalu
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,4,0,0,0,positif,"Bank Mandiri Jadi Top Big Bank RI Dengan Kualitas Aset Terbaik Market 2 tahun yang lalu ||| IHSG Lompat 1,08% Digendong Kinerja 5 Saham Big Cap Ini Market 2 tahun yang lalu BMRI.JK AMMN.JK GOTO.JK TPIA.JK TLKM.JK ||| Solusi Lifestyle Mudah! Bank Mandiri-JCB Gelar Festival Menarik Ini Market 2 tahun yang lalu ||| Struktur Permodalan Bank Mandiri Tetap Kuat, Ini Buktinya Market 2 tahun yang lalu"
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,KB Bank & APP Indonesia Tandatangani Kerja Sama Pembiayaan Vendor Market 2 tahun yang lalu
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,1,0,0,0,positif,"Ada Transaksi Nego Jumbo di Saham ULTJ & BRPT, Segini Nilainya Market 2 tahun yang lalu ULTJ.JK BRPT.JK"
+BUKA,PT Bukalapak.com Tbk,Technology,Internet Retail,1,3,3,1,netral,"Syarat Buka Alfamart Sendiri, Siapkan Modal Segini Market 2 tahun yang lalu ||| Habis Libur Wall Street Dibuka Beragam, Dow Jones Lesu Sendiri Market 2 tahun yang lalu ||| Gak Ada Karyawan yang Beli, Program MESOP Bukalapak (BUKA) Gak Laku? Market 2 tahun yang lalu ||| Yield Treasury Melonjak Lagi, Wall Street Dibuka Kebakaran Market 2 tahun yang lalu ||| Wall Street Dibuka Lesu Lagi, Dow Jones Lagi-Lagi Paling Parah Market 2 tahun yang lalu ||| Inflasi PCE Tumbuh Sesuai Perkiraan, Wall Street Dibuka Bergairah Market 2 tahun yang lalu ||| Indofarma Buka Suara Soal Dugaan Kasus Penipuan Rp 470 M Market 2 tahun yang lalu INAF.JK"
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EMTK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT ESSA Industries Indonesia Tbk,Basic Materials,Agricultural Inputs,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,1,1,0,0,positif,"GoTo Dikendalikan Siapa Usai Ditinggal Semua Pendiri Gojek-Tokopedia? Market 2 tahun yang lalu ||| IHSG Lompat 1,08% Digendong Kinerja 5 Saham Big Cap Ini Market 2 tahun yang lalu BMRI.JK AMMN.JK GOTO.JK TPIA.JK TLKM.JK"
+HRUM,PT Harum Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,1,0,0,0,positif,Kalbe Farma (KLBF) Perluas Bisnis Obat Resep di Thailand Market 2 tahun yang lalu
+MAPI,PT Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MBMA,PT Merdeka Battery Materials Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTMP,PT Mitra Pack Tbk,Industrials,Packaging & Containers,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SRTG,PT Saratoga Investama Sedaya Tbk,Financial Services,Asset Management,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,1,1,0,0,positif,"IHSG Lompat 1,08% Digendong Kinerja 5 Saham Big Cap Ini Market 2 tahun yang lalu BMRI.JK AMMN.JK GOTO.JK TPIA.JK TLKM.JK ||| Ini Dampak Positif Infrastruktur Digital Telkomsel ke Ekonomi Market 2 tahun yang lalu TLKM.JK"
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini

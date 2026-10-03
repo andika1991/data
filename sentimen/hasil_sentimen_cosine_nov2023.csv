@@ -1,0 +1,46 @@
+Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,1,2,negatif,"MARKET COMMENTARY IHSG Ambruk Lagi, BREN Hingga ADRO Jadi Biang Kerok Market 2 tahun yang lalu"
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,3,1,1,netral,"Airlangga Hartarto Bocorin Titah Jokowi: Jangan Takut Sama AI Market 2 tahun yang lalu ||| Bob Indiarto Jadi Plt Wadirut Pupuk Indonesia, Ini Sosoknya Market 2 tahun yang lalu ||| Laba Bank Jago Rp 50,29 M per September 2023 Market 2 tahun yang lalu ARTO.JK ||| Wow! Segini Kekayaan Mantan Istri Prabowo Titiek Soeharto Market 2 tahun yang lalu"
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,2,0,0,0,positif,"Dukung Net Zero 2060, BNI Salurkan Kredit Hijau Rp60 Triliun Market 2 tahun yang lalu BBNI.JK ||| Jaga Kualitas Kredit, Rasio NPL dan LAR BNI Turun di Q3 Market 2 tahun yang lalu BBNI.JK"
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,0,3,0,1,netral,"BI Rate Jadi 6%, Begini Arah Bunga Kredit BRI Market 2 tahun yang lalu BBRI.JK ||| Bos BBRI Blak-blakan Soal Harga Saham, Ini Katanya Market 2 tahun yang lalu BBRI.JK ||| BRI Sebut Likuiditas Aman, Ini Buktinya! Market 2 tahun yang lalu BBRI.JK"
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+CTRA,PT Ciputra Development Tbk,Real Estate,Real Estate - Development,0,0,1,2,negatif,Laba & Pendapatan Ciputra Development (CTRA) Turun di Q3-2023 Market 2 tahun yang lalu CTRA.JK
+ESSA,PT Surya Esa Perkasa Tbk,Basic Materials,Agricultural Inputs,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,1,1,0,0,positif,"Bos Telkom Buka-bukaan Soal Saham GOTO yang Turun Terus Market 2 tahun yang lalu ||| Kas Cukup, GoTo Putuskan untuk Tidak IPO Internasional Market 2 tahun yang lalu"
+HMSP,PT H.M. Sampoerna Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDY,PT Indika Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,1,0,0,0,positif,"Laba INKP Kuartal III Anjlok 50% Jadi US$ 320,88 Juta Market 2 tahun yang lalu INKP.JK"
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+JPFA,PT Japfa Comfeed Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPA,PT MAP Aktif Adiperkasa Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MIKA,PT Mitra Keluarga Karyasehat Tbk,Healthcare,Medical Care Facilities,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TBIG,PT Tower Bersama Infrastructure Tbk,Real Estate,REIT - Specialty,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TINS,PT Timah Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TPIA,PT Chandra Asri Petrochemical Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,1,1,0,0,positif,"Kuartal III, Kinerja Unilever Indonesia Tetap Solid Market 2 tahun yang lalu ||| Sukses Pimpin UNVR, Ira Noviarti Siap Tempati Posisi Baru Market 2 tahun yang lalu"

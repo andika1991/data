@@ -1,0 +1,46 @@
+Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Aspirasi Hidup Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,1,0,0,0,positif,Laba Bersih AKR Corporindo (AKRA) Turun Jadi Rp 1 Triliun Market 1 tahun yang lalu
+AMMN,PT Amman Mineral Internasional Tbk,Basic Materials,Other Precious Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,"Pemegang Saham Ritel BNI (BBNI) Ngegas, Jumlahnya Udah Segini Market 1 tahun yang lalu"
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,1,0,1,netral,"Tertekan Suku Bunga Tinggi, BTN (BBTN) Pangkas Target Pertumbuhan Laba Market 1 tahun yang lalu"
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,3,1,0,0,positif,"Bank Mandiri Buka-Bukaan Soal Penggunaan AI di Perbankan Market 1 tahun yang lalu ||| Bank Mandiri (BMRI) Ubah Target Pertumbuhan Kredit Jadi 16%-18% Yoy Market 1 tahun yang lalu BMRI.JK ||| Bisa Dipakai di LN, Paylater Bank Mandiri Tembus 100.000 Pengguna Market 1 tahun yang lalu ||| Wih! Transaksi Kopra Bank Mandiri Tembus Rp 10.000 T Semester I-2024 Market 1 tahun yang lalu"
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BUKA,PT Bukalapak.com Tbk,Technology,Internet Content & Information,2,2,1,0,positif,"Investor Kecewa Dengan Kinerja Big Tech, Wall Street Dibuka Merana Market 1 tahun yang lalu ||| Wall Street Dibuka Mixed, S&P 500-Nasdaq Masih Merana Market 1 tahun yang lalu ||| Inflasi PCE AS Sesuai Prediksi, Wall Street Dibuka Cerah Bergairah Market 1 tahun yang lalu ||| Banyak Gen Z Terjerat Pinjol, OJK Buka Suara Market 1 tahun yang lalu ||| Bank Mandiri Buka-Bukaan Soal Penggunaan AI di Perbankan Market 1 tahun yang lalu"
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT ESSA Industries Indonesia Tbk,Basic Materials,Specialty Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,2,1,2,0,positif,"GOTO Mau Hapus Saham Hasil Buyback, Kerek Nilai Pemegang Saham Market 1 tahun yang lalu ||| GOTO Pensiunkan 10,26 Miliar Saham Treasuri dari Buyback & Greenshoe Market 1 tahun yang lalu ||| Ini Kata Bos GOTO Soal Perusahaan Masih Rugi Rp 2,7 Triliun Market 1 tahun yang lalu ||| Konsisten! Pendapatan Bersih GOTO Juni 2024 Naik Jadi Rp 7,74 T Market 1 tahun yang lalu ||| Tiktok Setor Ratusan Miliar, GOTO Masih Rugi Rp 2,7 Triliun Market 1 tahun yang lalu"
+HRUM,PT Harum Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,1,2,negatif,"Laba INDF Grup Salim Anjlok 31% Pada Semester I-2024, Kenapa? Market 1 tahun yang lalu"
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ISAT,PT Indosat Ooredoo Hutchison Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+JSMR,PT Jasa Marga (Persero) Tbk,Industrials,Infrastructure Operations,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPI,PT Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,0,0,1,2,negatif,"Laba Mitra Adiperkasa (MAPI) Jeblok 11,40%, Ini Penyebabnya Market 1 tahun yang lalu"
+MBMA,PT Merdeka Battery Materials Tbk,Basic Materials,Other Precious Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Healthcare,Drug Manufacturers - General,1,0,1,0,positif,"Laba Sidomuncul (SIDO) Naik 35,79%, Tolak Angin Masih Jadi Andalan Market 1 tahun yang lalu ||| Sudah Ada 14 Bank Bangkrut Tahun 2024, Terbaru di Sidoarjo Market 1 tahun yang lalu"
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,1,2,negatif,"Laba United Tractors (UNTR) Turun 20% Jadi Rp 9,89 Triliun Market 1 tahun yang lalu"
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,1,0,0,0,positif,"Unilever Indonesia (UNVR) Bukukan Laba Rp 2,5 T di Semester I-2024 Market 1 tahun yang lalu"

@@ -1,0 +1,46 @@
+Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ASII,PT Astra International Tbk,Industrials,Conglomerates,1,0,0,0,positif,"MARKET COMMENTARY IHSG Sukses Hattrick Menghijau, 5 Saham Ini Jadi Penopangnya Market 2 tahun yang lalu TLKM.JK MDKA.JK BMRI.JK ASII.JK MBMA.JK"
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,1,0,0,0,positif,"MARKET COMMENTARY IHSG Sukses Hattrick Menghijau, 5 Saham Ini Jadi Penopangnya Market 2 tahun yang lalu TLKM.JK MDKA.JK BMRI.JK ASII.JK MBMA.JK"
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+CTRA,PT Ciputra Development Tbk,Real Estate,Real Estate - Development,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT Surya Esa Perkasa Tbk,Basic Materials,Agricultural Inputs,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,2,0,0,0,positif,"Turun Terus, Dua Bos GOTO Borong 78,17 Juta Saham Market 2 tahun yang lalu GOTO.JK ||| Direksi GoTo Borong Saham, Analis: Bentuk Optimisme Manajemen Market 2 tahun yang lalu"
+HMSP,PT H.M. Sampoerna Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,1,0,0,0,positif,"DIVESTASI SAHAM VALE Block Voting Agreement, Perjanjian Rahasia Vale & Sumitomo Market 2 tahun yang lalu"
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INDY,PT Indika Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,1,0,1,netral,BUMN PERFORMANCE REPORT 2023 Wamen BUMN Ungkap Cerita Menarik Soal Merger Citilink-Pelita Market 2 tahun yang lalu
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,1,0,1,netral,Prawiratno Jadi Bos Anak Usaha INTP Mineral Industri Sukabumi Market 2 tahun yang lalu
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+JPFA,PT Japfa Comfeed Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPA,PT MAP Aktif Adiperkasa Tbk,Consumer Cyclical,Specialty Retail,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,1,0,0,0,positif,"MARKET COMMENTARY IHSG Sukses Hattrick Menghijau, 5 Saham Ini Jadi Penopangnya Market 2 tahun yang lalu TLKM.JK MDKA.JK BMRI.JK ASII.JK MBMA.JK"
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MIKA,PT Mitra Keluarga Karyasehat Tbk,Healthcare,Medical Care Facilities,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,1,0,0,0,positif,"Laba Bukit Asam Tembus Rp 2,8 T di Semester I 2023 Market 2 tahun yang lalu"
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TBIG,PT Tower Bersama Infrastructure Tbk,Real Estate,REIT - Specialty,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TINS,PT Timah Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,1,0,0,0,positif,"MARKET COMMENTARY IHSG Sukses Hattrick Menghijau, 5 Saham Ini Jadi Penopangnya Market 2 tahun yang lalu TLKM.JK MDKA.JK BMRI.JK ASII.JK MBMA.JK"
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TPIA,PT Chandra Asri Petrochemical Tbk,Basic Materials,Chemicals,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini

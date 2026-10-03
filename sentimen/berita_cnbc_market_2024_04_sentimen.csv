@@ -1,0 +1,46 @@
+﻿Ticker,Nama Perusahaan,Sektor,Industri,positif,netral,negatif,sentimen_label,sentimen_dominan,full_berita
+ACES,PT Ace Hardware Indonesia Tbk,Consumer Cyclical,Specialty Retail,1,0,0,0,positif,"Ace Hardware (ACES) Cetak Laba Rp763,5 M di 2023, Naik 12,85% Market 2 tahun yang lalu ACES.JK"
+ADRO,PT Adaro Energy Indonesia Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ANTM,PT Aneka Tambang Tbk,Basic Materials,Gold,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ASII,PT Astra International Tbk,Industrials,Conglomerates,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,2,2,0,0,positif,"Pasca Bagi Dividen, Valuasi Saham BBNI Masih Menarik! Ini Alasannya Market 2 tahun yang lalu ||| BNI Beri Kredit Hijau Proyek PLTS Terbesar Se-Indonesia Market 2 tahun yang lalu BBNI.JK ||| Bank DBS Indonesia Cetak Laba Rp 1,69 T Sepanjang 2023 Market 2 tahun yang lalu ||| Dinilai Masih Murah, Sejumlah Analis Rekomendasi Beli Saham BBNI Market 2 tahun yang lalu"
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,2,0,0,0,positif,"MARKET COMMENTARY Saham BBRI Ngacir 2% Lebih, Ini Penyebabnya Market 2 tahun yang lalu ||| Bank DBS Indonesia Cetak Laba Rp 1,69 T Sepanjang 2023 Market 2 tahun yang lalu"
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,0,2,0,1,netral,"Cek Suku Bunga KPR BCA, Bank Mandiri, BNI, BTN Per Maret 2024 Market 2 tahun yang lalu ||| Restrukturisasi Kredit Covid-19 Berakhir, Ini Tanggapan Bos BMRI Market 2 tahun yang lalu"
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,2,0,0,0,positif,"Cetak Laba Rp 238,7 M, Bank Mega Syariah Mau Fokus Ritel Tahun Ini Market 2 tahun yang lalu ||| Bank DBS Indonesia Cetak Laba Rp 1,69 T Sepanjang 2023 Market 2 tahun yang lalu"
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,1,0,0,0,positif,"Laba Barito Pacific Naik Tajam, Tembus Rp 412 M di 2023 Market 2 tahun yang lalu"
+BUKA,PT Bukalapak.com Tbk,Technology,Internet Retail,2,2,0,0,positif,"Heboh Lahannya di IKN Kena Serobot, Manajemen BCA Buka Suara Market 2 tahun yang lalu ||| Wall Street Dibuka Hijau Saat Investor Harap-Harap Cemas Market 2 tahun yang lalu ||| Ajaib! Bursa Asia Cenderung Sepi, Tapi Dibuka Menghijau Market 2 tahun yang lalu ||| United E-Motor Buka Store Terbaru di AEON Deltamas Market 2 tahun yang lalu"
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EMTK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ESSA,PT ESSA Industries Indonesia Tbk,Basic Materials,Agricultural Inputs,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+EXCL,PT XL Axiata Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,0,1,0,1,netral,5 Sekuritas Raksasa Prediksi Saham GOTO Bakal Segini Market 2 tahun yang lalu
+HRUM,PT Harum Energy Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,0,1,0,1,netral,Vale Indonesia (INCO) Angkat Emily Olson Jadi Presiden Komisaris Market 2 tahun yang lalu INCO.JK
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+KLBF,PT Kalbe Farma Tbk,Healthcare,Drug Manufacturers - General,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MAPI,PT Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MBMA,PT Merdeka Battery Materials Tbk,Basic Materials,Other Industrial Metals & Mining,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,1,0,0,0,positif,"Merdeka Copper (MDKA) Temukan Sumber Daya Baru, Tembus 755 Juta Ton! Market 2 tahun yang lalu"
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+MTEL,PT Dayamitra Telekomunikasi Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGAS,PT Perusahaan Gas Negara Tbk,Utilities,Utilities - Regulated Gas,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTBA,PT Bukit Asam Tbk,Energy,Thermal Coal,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+PTMP,PT Mitra Pack Tbk,Industrials,Packaging & Containers,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+SRTG,PT Saratoga Investama Sedaya Tbk,Financial Services,Asset Management,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+TOWR,PT Sarana Menara Nusantara Tbk,Communication Services,Telecom Services,0,0,0,1,netral,Tidak ada berita terkait emiten ini
+UNTR,PT United Tractors Tbk,Industrials,Farm & Heavy Construction Machinery,1,0,0,0,positif,KB Bank Gandeng United Tractors Salurkan Kredit Pembelian Alat Berat Market 2 tahun yang lalu
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,0,0,0,1,netral,Tidak ada berita terkait emiten ini
