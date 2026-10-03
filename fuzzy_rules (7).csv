@@ -1,0 +1,32 @@
+id_rule,eps,per,roe,fcf,der,ma50,ma200,gradient,volume,rsi,sentimen,output,horizon
+1,,,,,,,,positif,high,oversold,positif,potensial,scalping
+2,,,,,,,,positif,high,net,positif,potensial,scalping
+3,,,,,,,,negatif,high,oversold,negatif,potensial,scalping
+4,,,,,,,,positif,high,overbought,positif,potensial,scalping
+5,,,,,,,,positif,mid,net,positif,potensial,fast trade
+6,,,,,,bull,,positif,mid,oversold,netral,potensial,fast trade
+7,,,,,,bull,,negatif,mid,oversold,netral,potensial,fast trade
+8,,,,,,bull,,negatif,mid,net,netral,potensial,fast trade
+9,,,,,,bull,bull,netral,high,net,positif,potensial,swing trade
+10,,,,,,bull,,netral,mid,net,netral,potensial,swing trade
+11,,,,,,net,net,negatif,mid,oversold,netral,potensial,swing trade
+12,mid,mid,mid,mid,mid,bull,,,,,netral,potensial,swing trade
+13,high,mid,mid,mid,low,bull,bull,,,,netral,potensial,hold menengah
+14,mid,low,mid,mid,low,bull,bull,,,,positif,potensial,hold menengah
+15,mid,low,high,high,low,bull,bull,,high,net,positif,potensial,hold menengah
+16,high,low,high,high,low,bull,bull,,,,positif,potensial,hold menengah-panjang
+17,high,mid,high,high,low,bull,bull,,,oversold,netral,potensial,hold menengah-panjang
+18,high,low,high,mid,low,bull,bull,,,,netral,potensial,hold menengah-panjang
+19,high,low,high,high,low,net,bull,,mid,oversold,netral,potensial,hold menengah-panjang
+20,mid,mid,mid,mid,mid,net,net,netral,mid,net,netral,netral,wait
+21,mid,high,mid,mid,mid,net,,netral,mid,net,netral,netral,wait
+22,mid,mid,mid,low,mid,bull,,negatif,mid,net,netral,netral,watchlist
+23,low,high,low,low,high,bear,bear,negatif,high,oversold,negatif,tidak potensial,avoid
+24,low,high,low,low,high,bear,,negatif,mid,net,negatif,tidak potensial,avoid
+25,,,,,,,,positif,high,overbought,netral,potensial,scalping
+26,mid,mid,mid,mid,,net,bull,,,,netral,potensial,hold menengah
+27,low,high,low,low,high,bear,bear,,,,negatif,tidak potensial,avoid
+28,low,high,low,low,mid,bear,bear,negatif,low,net,negatif,tidak potensial,avoid
+29,low,mid,low,low,high,bear,,negatif,low,net,netral,tidak potensial,avoid
+30,mid,high,low,low,high,bear,bear,,,,netral,tidak potensial,avoid
+31,low,high,mid,low,high,net,bear,negatif,mid,net,negatif,tidak potensial,avoid
